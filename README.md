@@ -21,4 +21,4 @@ It can be played using the following controls:
  - Q: quit
  - B: toggle bot (active / inactive)
 
-General settings such as the weights for the Bot's heuristics, the size of the window, the number of rows and columns of the board, etc. can be modified in PInfo.java
+General settings such as the weights for the Bot's heuristics, the size of the window, the number of rows and columns of the board, etc. can be modified in `PInfo.java`.
