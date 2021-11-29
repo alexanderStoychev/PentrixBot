@@ -12,7 +12,7 @@ public interface PInfo {
 	int MULT_DELAY = 15;
 	String GAME_NAME = "PentriX";
 	int WINDOW_HEIGHT = 800;
-	int WINDOW_WIDTH = 1000;
+	int WINDOW_WIDTH = 700;
 	Color BACKGROUND = new Color(34, 78, 103);
 	String FILENAME = "leaderboard.txt";
 	int LEADERS = 5;
@@ -71,10 +71,10 @@ public interface PInfo {
 
 	//Board Settings
 	int ROWS = 15;
-	int COLUMNS = 15;
+	int COLUMNS = 7;
 
-	int MINO_WIDTH = 45;
-	int MINO_HEIGHT = 45;
+	int MINO_WIDTH = 30;
+	int MINO_HEIGHT = 30;
 
 	int STARTING_X = COLUMNS%2 == 0 ? COLUMNS/2 - 1 : Math.round(COLUMNS/2);
 
