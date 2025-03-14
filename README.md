@@ -1,4 +1,7 @@
 # PentriX
+
+<img src="/imgs/screenshot.png" alt="Thumbnail" width="45%"/>
+
 This game was made for the Project 1 - Part 2, from the Bachelor in Data Science and Knowledge Engineering and Maastricht University.  
 The code is written in collaboration with the group I was in: Lucas Giovanni Uberti-Bona Marin, Silvia Fallone, Antonio Rodriguez, Sarah Waseem, Pierre Bongrand and myself.
 
