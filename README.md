@@ -13,12 +13,12 @@ In short, this is like a normal Tetris game, but the pieces are not made of 4 bl
 Moreover, it has an AI included (inspired in [this site](https://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/)), which uses heuristics to make decisions during the game.
 
 It can be played using the following controls:  
- - RIGHT ARROW: move 1 unit to the right  
- - LEFT ARROW: move 1 unit to the left  
- - DOWN ARROW: move 1 unit down  
- - UP ARROW: rotate (clockwise)
- - SPACE: drop
- - Q: quit
- - B: toggle bot (active / inactive)
+ - `RIGHT ARROW`: move 1 unit to the right  
+ - `LEFT ARROW`: move 1 unit to the left  
+ - `DOWN ARROW`: move 1 unit down  
+ - `UP ARROW`: rotate (clockwise)
+ - `SPACE`: drop
+ - `Q`: quit
+ - `B`: toggle bot (active / inactive)
 
 General settings such as the weights for the Bot's heuristics, the size of the window, the number of rows and columns of the board, etc. can be modified in `PInfo.java`.
